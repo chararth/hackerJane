@@ -25,10 +25,10 @@
 .time-select button,
 .sound-picker button {
   color: white;
-  min-width: 10%;
-  min-height: 10%;
+  min-width: 8%;
+  min-height: 8%;
   background: none;
-  font-size: 20px;
+  font-size: 15px;
   border-radius: 50px;
   cursor: pointer;
   padding: 10px;
