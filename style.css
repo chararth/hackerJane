@@ -81,16 +81,10 @@
 
 
 .player-container img.play {
-  position: relative;
+  position: fixed;
   min-height: 5%;
   min-width: 5%;
-  margin-top: 100%;
-  margin-left: 8%;
-}
-
-.player-container img.replay {
-
-
+  
 }
 
 
@@ -124,7 +118,7 @@ h4{
   min-width: 30%;
   min-height: 30%;
   margin-left: 2%;
-  margin-bottom: 100px;
+  margin-top: 20%;
   font-size: 80%;
   
   
